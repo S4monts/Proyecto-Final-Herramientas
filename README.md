@@ -1,4 +1,4 @@
-Para acceder al proyecto, corre los siguientes comandos en la terminal de Visual Studio Code o tu editor de codigo local.
+Para acceder al proyecto, descomprimir y correr los siguientes comandos en la terminal de Visual Studio Code o tu editor de codigo local despues de abrir el proyecto ya descomprimido.
 
 
 PASO 1
@@ -12,3 +12,11 @@ cd C:\Users\satmo\Pictures\django\proyecto_UCC
 PASO 2
 
 python manage.py runserver
+
+PASO 3
+
+Copiar la direccion que te de la terminal y pegarla en el navegador.
+
+EJEMPLO
+
+running on *TUDIRECCIONAQUI*
